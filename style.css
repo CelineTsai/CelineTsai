@@ -1,0 +1,75 @@
+* {
+	margin:  0;
+	padding: 0;
+}
+
+#topBanner {
+}
+
+#Banner {
+	position: relative;
+	width: 100%;
+	opacity: 0.65;
+}
+#login {
+	position: absolute;
+	width: 40px;
+	top: 10px;
+	left: 10px;
+}
+#back {
+	position: absolute;
+	width: 40px;
+	top: 60px;
+	left: 15px;
+}
+#menu {
+	position: absolute;
+	width: 40px; ]
+	top: 100px;
+	right: 10px;
+}
+
+
+
+h1 {
+	position: absolute;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 300%;
+	top: 100px;
+	left: 100px;
+	color: #0A3A34;
+	line-height: 60px;
+}
+
+h2 {
+	position: absolute;
+}
+
+body {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+p {
+	font-size: 125%;
+	color: black;
+}
+
+.button {
+	width: 350px;
+	height: px;
+	border-radius: 20px;
+	
+}
+
+#buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#ndrow {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-evenly;
+}
